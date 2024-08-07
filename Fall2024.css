@@ -295,12 +295,14 @@ h3 {
 }
 
 .modal-header {
+	font-family: 'Segoe', 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', 'Verdana', 'sans-serif'; 
     padding: 2px 16px;
     color: rgba(61,61,61,1.00);
 	border-radius: 30px 30px 0 0;
 }
 
 .modal-body {
+	font-family: 'Segoe', 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', 'Verdana', 'sans-serif'; 
 	height: 45vh;
 	padding: 0 16px 0 16px;
 	margin: 0 16px 0 16px;
